@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+	"particle": "redstoneigniter:blocks/igniter_front",
+    "down": "redstoneigniter:blocks/igniter_side",
+    "up": "redstoneigniter:blocks/igniter_top",
+    "east": "redstoneigniter:blocks/igniter_side",
+    "west": "redstoneigniter:blocks/igniter_side",
+    "north": "redstoneigniter:blocks/igniter_front",
+    "south": "redstoneigniter:blocks/igniter_side"
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redstoneigniter",
+  "name": "Redstone Igniter",
+  "description": "This mod adds a block that consumes Forge Energy and ignites the block it's facing whenever it receives power.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LumberWizard"],
+  "credits": "Me and that guy on reddit who brought it up.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
