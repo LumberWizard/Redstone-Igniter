@@ -70,10 +70,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 	
-	deobfProvided "mcp.mobius.waila:Hwyla:1.8.25-B40_1.12:api"
-	
-	runtime "mcjty.theoneprobe:TheOneProbe-1.12:1.12-1.4.22-13"
-	runtime "mcp.mobius.waila:Hwyla:1.8.25-B40_1.12"
+	deobfCompile "mcp.mobius.waila:Hwyla:1.8.25-B40_1.12:api"
 }
 
 processResources {
